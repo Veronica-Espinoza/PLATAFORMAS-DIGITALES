@@ -1,0 +1,19 @@
+
+body {
+	background-color:turquoise;
+	}
+p {
+	font-family:Verdana;
+	border: 2px solid red; 
+	padding:30 px;
+	}
+strong {
+	color:red;
+	}
+p.center{
+		text-align:center;
+		 color :brown;
+	    }
+h1      {
+	    font-size:300%
+		}
